@@ -15,7 +15,7 @@ I’m a passionate developer from Rajasthan, India.<br>I love tinkering with tec
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AadishJ&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AadishJ&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="50%" height="180px" />
 </p>
 
 ## 🏆 GitHub Trophies
