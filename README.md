@@ -5,6 +5,16 @@ Currently, I’m diving into the world of Kubernetes, application scaling, and c
 
 ---
 
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AadishJ&theme=dark&hide_border=false&include_all_commits=true" width="32%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=AadishJ&theme=dark&hide_border=false" width="32%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AadishJ&theme=dark&hide_border=false&layout=compact" width="32%" />
+</p>
+
+[![Aadish's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AadishJ&bg_color=0d1117&color=00ff00&line=00ff00&point=00ff00&area=true&hide_border=true)](https://github.com/AadishJ/github-readme-activity-graph)
+
+---
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aadishjain1305) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aadish-jain-3a9001284) 
@@ -68,17 +78,6 @@ Currently, I’m diving into the world of Kubernetes, application scaling, and c
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AadishJ&theme=dark&hide_border=false&include_all_commits=true" width="32%" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=AadishJ&theme=dark&hide_border=false" width="32%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AadishJ&theme=dark&hide_border=false&layout=compact" width="32%" />
-</p>
-
-[![Aadish's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AadishJ&bg_color=0d1117&color=00ff00&line=00ff00&point=00ff00&area=true&hide_border=true)](https://github.com/AadishJ/github-readme-activity-graph)
-
----
-
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AadishJ&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
@@ -93,4 +92,4 @@ Currently, I’m diving into the world of Kubernetes, application scaling, and c
 
 ---
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=AadishJ&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=AadishJ&color=0e75b6)
