@@ -14,6 +14,7 @@ I’m a passionate developer from Rajasthan, India.<br>I love tinkering with tec
   <img src="https://nirzak-streak-stats.vercel.app/?user=AadishJ&theme=dark&hide_border=false" width="32%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AadishJ&theme=dark&hide_border=false&layout=compact" width="32%" />
 </p>
+[![Aadish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AadishJ&bg_color=0d1117&color=ffffff&line=00bcd4&point=00bcd4&area=true&hide_border=true)](https://github.com/AadishJ/github-readme-activity-graph)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AadishJ&theme=radical&no-frame=false&no-bg=true&margin-w=4)
