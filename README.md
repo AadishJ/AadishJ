@@ -10,12 +10,12 @@ I’m a passionate developer from Rajasthan, India.<br>I love tinkering with tec
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AadishJ&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="180em" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=AadishJ&theme=dark&hide_border=false" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AadishJ&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=AadishJ&theme=dark&hide_border=false" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AadishJ&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AadishJ&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="50%" />
 </p>
 
 ## 🏆 GitHub Trophies
